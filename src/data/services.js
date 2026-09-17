@@ -1,0 +1,8 @@
+export const services = [
+  { id: 1, title: "I will build a modern responsive React website", category: "Development & IT", seller: "Sasi Kumar", sellerId: 1, rating: 4.9, reviews: 128, price: 2000, image: "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800&q=80", tags: ["React", "Frontend"] },
+  { id: 2, title: "I will design a memorable brand identity for your business", category: "Design & Creative", seller: "Arun Kumar", sellerId: 2, rating: 4.8, reviews: 94, price: 1500, image: "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=800&q=80", tags: ["Branding", "Logo"] },
+  { id: 3, title: "I will edit engaging social media videos", category: "Video & Animation", seller: "Rahul Raj", sellerId: 3, rating: 5.0, reviews: 76, price: 1200, image: "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=800&q=80", tags: ["Editing", "Reels"] },
+  { id: 4, title: "I will write SEO blog posts that rank on Google", category: "Writing & Translation", seller: "Priya Sharma", sellerId: 4, rating: 4.7, reviews: 63, price: 800, image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=800&q=80", tags: ["SEO", "Writing"] },
+  { id: 5, title: "I will create a conversion-focused landing page", category: "Development & IT", seller: "Daniel Lee", sellerId: 6, rating: 4.8, reviews: 42, price: 2800, image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80", tags: ["Web Design", "React"] },
+  { id: 6, title: "I will create a clean UX/UI design in Figma", category: "Design & Creative", seller: "Maya Wilson", sellerId: 5, rating: 4.9, reviews: 51, price: 2400, image: "https://images.unsplash.com/photo-1559028012-481c04fa702d?w=800&q=80", tags: ["Figma", "UX"] },
+];
